@@ -9,5 +9,5 @@
 
 ----------------------------------------------
 **Coming Soon**
-<p style="text-algn:center>Distroblog.ir</p>
+<p style="text-algn:center">Distroblog.ir</p>
 By **Team**
