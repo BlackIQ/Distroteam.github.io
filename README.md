@@ -1,6 +1,6 @@
 # Distro Blog
 
-- This is just a simple one-page web
+- This is Web Site Opensource [Distroblog](distroblog.ir)
 
 | Telegram bot | Connect to website & get data post in telegram channel |
 | ------------- | ------------- |
