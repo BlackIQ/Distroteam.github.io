@@ -4,7 +4,7 @@
 
 | Telegram bot | Connect to website & get data post in telegram channel |
 | ------------- | ------------- |
-| build for Django or Wordpress | we use django,flask or wordpress |
+| build for Hugo | Hugo Static page |
 | hosting | Github❤ |
 
 ----------------------------------------------
