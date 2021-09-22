@@ -2,10 +2,10 @@
 
 - This is Web Site Opensource [Distroblog](https://distroblog.ir)
 
-| Telegram bot | Connect to website & get data post in telegram channel |
+| Telegram bot | Connects to website to get data and post in [Telegram channel](https://t.me/Distrotv) |
 | ------------- | ------------- |
-| build for Hugo | Hugo Static page |
-| hosting | Github❤ |
+| Build with [Hugo](https://gohugo.io) | [Hugo Static page](https://gohugo.io) |
+| Hosting | Github ❤ |
 
 ----------------------------------------------
 **Coming Soon**
